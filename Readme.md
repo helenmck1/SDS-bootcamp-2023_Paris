@@ -20,7 +20,7 @@ Access the slides [here](https://docs.google.com/presentation/d/1reIIoPFROXOHDEl
 
 ## Session 3: "An Intro to Geospatial Data Engineering" with Cayetano Benavent Viñuales
 
-Access the materials [here](https://docs.google.com/presentation/d/1GUi5wiIEoRJhn3eXbacZ7_GBR_84jOQ1o1u0I0dkS-8/edit).
+Access the materials [here](https://docs.google.com/presentation/d/1R6NcYl9e1YlmTLG2EpvoyWAL4ciSun_ja47X2yfFIMw/edit?usp=sharing).
 
 ## Session 4: "Using SQL to scale your spatial analytics" with Giulia Carella
 
