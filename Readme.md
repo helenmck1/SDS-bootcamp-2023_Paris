@@ -24,7 +24,7 @@ Access the materials [here](https://docs.google.com/presentation/d/1GUi5wiIEoRJh
 
 ## Session 4: "Using SQL to scale your spatial analytics" with Giulia Carella
 
-Access the slides [here](https://docs.google.com/presentation/d/1sxp1WWoEG7RP9e5Nk1IQRWtlKGY_YLl_07ccZq93nFc/edit?usp=sharing) and worksheets [here](https://drive.google.com/file/d/1-1_hPpt0UK-ox_GNgTQXRRpPjb4R5NFL/view?usp=share_link).
+Access the slides [here](https://docs.google.com/presentation/d/1_oE9GbU_x6j2HIT76VtJNfisU8tmgA6_ECqJ_2aAswk/edit?usp=sharing) and worksheets [here](https://github.com/CartoDB/research-public/tree/master/sds-bootcamps-paris-23-10).
 
 ## Session 5: "Leverage Python for Spatial Data Science" with Florian Bayer
 
@@ -32,4 +32,4 @@ Access the materials [here](https://github.com/fbxyz/SDS_Bootcamp).
 
 ## Session 6: "Data Visualization Clinic" with Marta Bescansa
 
-Access the materials [here](https://docs.google.com/presentation/d/1zsn2ldTZqgPz71wuWHsjoiPd_ISnUXw8cqbsXwvitFU/edit?usp=sharing).
+Access the materials [here](https://docs.google.com/presentation/d/1hVv0zmPFBPZ_jM-1Zdn5KIMRfpmRv52mItptF47JY-c/edit?usp=sharing).
