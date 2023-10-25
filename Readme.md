@@ -1,4 +1,4 @@
-# Spatial Data Science Bootcamps: NYC 2023
+# Spatial Data Science Bootcamps: Paris 2023
 
 Welcome to your Spatial Data Science Bootcamps repo! The majority of your course materials can be found here. These will also be shared with a digital version of your handbook after the event.
 
