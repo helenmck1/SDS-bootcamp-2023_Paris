@@ -16,7 +16,7 @@ Access the materials [here](https://drive.google.com/file/d/1C5rN1RRsYEfAm8KdXXQ
 
 ## Session 2: "The Modern Geospatial Data Stack" With Jérôme Vigneron
 
-Access the slides [here](https://docs.google.com/presentation/d/1reIIoPFROXOHDEl24Y3Z7KcOi1Z4rVOtW6Krtr-GPU4/edit?usp=share_link).
+Access the slides [here](https://docs.google.com/presentation/d/1bC97pMebnrdIYpmALbF7Br7tGfR-LqbvtzkFjLdNBnQ/edit#slide=id.p).
 
 ## Session 3: "An Intro to Geospatial Data Engineering" with Cayetano Benavent Viñuales
 
